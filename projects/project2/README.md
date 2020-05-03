@@ -1,7 +1,6 @@
----
-layout: post
-title: Want to avoid crash acccident - Don't go to high-crime neighborhoods
----
+
+# Project 2:  Want to avoid crash acccident - Don't go to high-crime neighborhoods
+
 
 [![Project passed](https://img.shields.io/badge/project-passed-success.svg)](https://img.shields.io/badge/project-passed-success.svg)
 
