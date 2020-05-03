@@ -1,5 +1,7 @@
 # Street team deployment
 
+[![Project passed](https://img.shields.io/badge/project-passed-success.svg)](https://img.shields.io/badge/project-passed-success.svg)
+
 ----
 ### We used MTA subway data to  identify stations and times for optimizing the placement of street team
 
