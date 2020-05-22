@@ -1,6 +1,7 @@
 # Data Science Metis Bootcamp
 
-Projects and resources developed in the [Data Science Bootcamp]([![Project passed](https://www.thisismetis.com) from Metis.
+[![metis](https://images.squarespace-cdn.com/content/v1/5c0a0028e2ccd1eb692eacdc/1550088908119-VDBX9V600UQ2DVVYU02J/ke17ZwdGBToddI8pDm48kOE03qcy2L7wAQtxJegtHNlZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVHNBMFUUzdWFtWws933UE6G4Gd4wkW2Eu9bqt4jeOqh8TqWIIaSPh2v08GbKqpiV54/Metis-logo.png?format=500w)
+Projects and resources developed in the [Data Science Bootcamp](https://www.thisismetis.com) from Metis.
 
 
 
